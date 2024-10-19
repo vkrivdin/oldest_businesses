@@ -11,13 +11,13 @@ In this project I have:
 # Input
 
 - [businesses.csv](./datasets/businesses.csv)
+- [new_businesses.csv](./datasets/new_businesses.csv)
 - [categories.csv](./datasets/categories.csv)
 - [countries.csv](./datasets/countries.csv)
 
 # Output
 
-- [businesses.csv](./notebook.ipynb)
-- [new_businesses.csv](./datasets/new_businesses.csv)
+- [notebook.ipynb](./notebook.ipynb)
 
 # Applied concepts
 
