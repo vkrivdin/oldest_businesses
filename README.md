@@ -22,7 +22,7 @@ In this project I have:
 # Applied concepts
 
 - Libraries
-  - pandas, numpy, matplotlib, and seaborn
+  - pandas, numpy
 - Data Cleaning
   - Handling missing values using df.dropna() or df.fillna()
   - Removing duplicates with df.drop_duplicates()
@@ -31,15 +31,13 @@ In this project I have:
   - Using pd.melt() to reshape data.
   - Applying pd.pivot_table() for data aggregation.
   - Using groupby() and agg() functions for grouping and aggregating data.
-Data Visualization:
-- Using matplotlib and seaborn to create plots such as histograms, bar charts, scatter plots, and more.
-Data Analysis:
-- Statistical analysis using numpy and scipy.
-- Correlation analysis with df.corr().
-Conditional Statements and Loops
-- Used for data filtering or iterative processing.
-Functions:
-- Defined custom functions to perform specific tasks, such as data preprocessing or feature engineering.
+- Data Analysis:
+  - Statistical analysis using numpy and scipy.
+  - Correlation analysis with df.corr().
+- Conditional Statements and Loops
+  - Used for data filtering or iterative processing.
+- Functions
+  - Defined custom functions to perform specific tasks, such as data preprocessing or feature engineering.
 
 # Project brief
 
